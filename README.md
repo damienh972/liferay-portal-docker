@@ -1,0 +1,1 @@
+Liferay portal ga132 with mysql 8, elasticsearch 8 and kibana
